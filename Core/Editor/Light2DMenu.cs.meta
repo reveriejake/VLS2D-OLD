@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7db206402c8532947b0e08b022b1330b
+labels:
+- 2d
+- light
+- lights
+- sprites
+- 2dvls
+- volumetric
+- editor
+- sprite
+- reverie
+- reveriejake
+- reverieinteractive
+- jake
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
